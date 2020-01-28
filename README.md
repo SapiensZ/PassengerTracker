@@ -2,7 +2,7 @@
 # 🚀 PassengerTracker
 
 
-#### Use *topic_scoring.py*
+### Use *topic_scoring.py*
 
 Like any library, use :
 ````
@@ -12,10 +12,9 @@ It will import all the libraries of the script. Because of nlp library it can la
 An initial dictionnary of topics with related words is already written down.
 
 To use the function with your dataframe reviews:
+#### It returns your dataframe with list of sentences related to each topic (TOPIC_sentences) and the related score (TOPIC_score)
+
 `````
-"""
-It returns your dataframe with list of sentences related to each topic (TOPIC_sentences) and the related score (TOPIC_score)
-"""
 df_results = sentence_extraction_scoring(df, dict_topics, column_name='review')
 `````
 - df : your dataframe
