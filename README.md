@@ -4,6 +4,15 @@
 
 ### Use *topic_scoring.py*
 
+You need to install these libraries from the terminal, check on the topic_scoring if you miss some.
+It can take time because it downloads english language
+```
+pip install pandas
+pip install numpy
+pip install spacy
+pip install nltk
+```
+
 Like any library, use :
 ````
 from topic_scoring import sentence_extraction_scoring, dict_topics
