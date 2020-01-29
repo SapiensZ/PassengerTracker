@@ -3,6 +3,7 @@
 
 
 ### Use *topic_scoring.py*
+*file path: /03_NLP/Topic_scoring/topic_scoring.py* 
 
 You need to install these libraries from the terminal, check on the topic_scoring if you miss some.
 It can take time because it downloads english language
