@@ -113,7 +113,10 @@ python app.py
 Open http://0.0.0.0:8050/ in your browser, you will see a live-updating dashboard.
 
 #### Screenshot
-![Screencast](04/Dashboard/Screenshots/screenshot_1.png)
-![Screencast](04/Dashboard/Screenshots/screenshot_2.png)
-![Screencast](04/Dashboard/Screenshots/screenshot_3.png)
-![Screencast](04/Dashboard/Screenshots/screenshot_4.png)
+![Screencast](04_Dashboard/Screenshots/screenshot_1.png)
+
+![Screencast](04_Dashboard/Screenshots/screenshot_2.png)
+
+![Screencast](04_Dashboard/Screenshots/screenshot_3.png)
+
+![Screencast](04_Dashboard/Screenshots/screenshot_4.png)
