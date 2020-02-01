@@ -84,7 +84,7 @@ git clone https://github.com/SapiensZ/PassengerTracker.git
 cd PassengerTracker/04_Dashboard/
 python3 -m virtualenv venv
 ```
-In UNIX system: 
+In UNIX|Darwin  system: 
 
 ```
 source venv/bin/activate
