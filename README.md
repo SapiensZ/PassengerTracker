@@ -74,7 +74,7 @@ df_results = sentence_extraction_scoring(df, dict_topics, column_name='review')
 * [Dash](https://dash.plot.ly/) - Main server and interactive components 
 * [Plotly Python](https://plot.ly/python/) - Used to create the interactive plots
 * [Dash DAQ](https://dash.plot.ly/dash-daq) - Styled technical components for industrial applications
-* [CSS template](https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-medical-provider-charges/assets) - CSS templace that inspired us
+* [CSS template](https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-medical-provider-charges/assets) - CSS templace which inspired us
 
 #### Requirements
 We suggest you to create a separate virtual environment running Python 3 for this app, and install all of the required dependencies there. Run in Terminal/Command Prompt:
